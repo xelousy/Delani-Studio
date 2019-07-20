@@ -75,7 +75,6 @@ body {
 }
 
 .contacts {
-    height: 520px;
     background-image: url("../images/backgrounds/c_image.jpg");
     background-size: cover;
 }
@@ -84,11 +83,32 @@ body {
     position: relative;
     top: 30px;
 }
+.text{
+    margin-bottom: 20px;
+}
 
 .contact-overlay {
     background-color: rgba(0, 0, 0, 0.7);
-    height: 520px;
 }
 .img{
     padding: 5px;
+}
+.form-control{
+    background-color: #66000000;
+}
+.input{
+    margin-top: 30px;
+}
+.name{
+    margin-right: 5px;
+}
+.email{
+    margin-right: 5px;
+}
+.social{
+    justify-content:center;
+    padding-left:10px;
+    padding-right:10px;
+
+
 }
