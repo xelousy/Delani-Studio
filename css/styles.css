@@ -96,6 +96,7 @@ figcaption{
 
 .form-control{
     background-color: #66000000;
+    color: white;
 }
 .input{
     margin-top: 30px;
@@ -110,4 +111,34 @@ figcaption{
     justify-content:center;
     padding-left:10px;
     padding-right:10px;
+}
+.white{
+    height: 300px;
+    width: 366px;
+    background-color: rgba(255, 255, 255, 0.5);
+    display: none;
+}
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+}
+.portimg {
+    float: right;
+    position: relative;
+    margin: 5px;
+    color: #333;
+}
+.portimg .porttext {
+    display: none;
+    opacity: 0.6;
+    background-color:white;
+    width: 188px;
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+    padding-top:10px;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 5px;
+    height: 100%;
 }
