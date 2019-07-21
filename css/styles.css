@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Poiret+One|Raleway|Ubuntu+Mono&display=swap');
 html {
     scroll-behavior: smooth;
 }
@@ -25,7 +26,12 @@ body {
     position: relative;
     top: 33%;
 }
-
+.h-text{
+    font-family: 'Comfortaa', cursive;
+}
+.smaller-text{
+    font-family: 'Ubuntu Mono', monospace;
+}
 .overlay > img, .welcome {
     margin-bottom: 30px;
 }
@@ -116,7 +122,12 @@ figcaption{
 .input{
     margin-top: 30px;
 }
-
+.b-text{
+    font-family: 'Comfortaa', cursive;
+}
+.m-text{
+    font-family: 'Raleway', sans-serif;
+}
 .name{
     margin-right: 5px;
 }
