@@ -4,11 +4,11 @@
 ## Description.
 Delani Studio is a site built to practice concepts learnt including JQuery, bootstrap, javascript and working with APIS's.
 
-##Author
+## Author
 >Victor Kamau
 
 ## Screenshot.
-<img src="" width="1000">
+<img src="https://github.com/kamauvick/Delani-Studio/blob/master/images/screenshot/shot.png?raw=true" width="1000">
 
 ## Setup.
 To get a local copy of the site:
