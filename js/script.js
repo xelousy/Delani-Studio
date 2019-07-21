@@ -29,17 +29,17 @@ $(function () {
     });
 
     //Hide paragraph content
-    $(desp).on('click', function () {
+    $(desp, destext).on('click', function () {
         $('.des').slideDown();
         $(desp).hide(500);
         $(destext).animate({fontWeight:'normal',fontSize:'16px'})
     });
-    $(devp).on('click', function () {
+    $(devp, devtext).on('click', function () {
         $('.dev').slideDown();
         $(devp).hide(500);
         $(devtext).animate({fontWeight:'normal',fontSize:'16px'})
     });
-    $(prop).on('click', function () {
+    $(prop, protext).on('click', function () {
         $('.pro').slideDown();
         $(prop).hide(500);
         $(protext).animate({fontWeight:'normal',fontSize:'16px'})
