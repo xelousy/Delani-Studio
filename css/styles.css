@@ -31,13 +31,28 @@ body {
 }
 
 .click {
-    margin-top: 110px;
+    margin-top: 330px;
 }
 
 .jumbotron-fluid {
     background-image: url("../images/backgrounds/h_img.jpg");
     background-size: cover;
     height: 668px;
+}
+#bounce {
+    animation: bounce 3s infinite;
+}
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(-55px);
+    }
+    60% {
+        transform: translateY(-45px);
+    }
 }
 
 .about {
@@ -110,21 +125,9 @@ input.error {
     font-weight: 300;
     color: red;
 }
-/*.name:valid{*/
-/*    border-color: green;*/
-/*}*/
-/*.name:invalid{*/
-/*    border-color: red;*/
-/*}*/
 .email{
     margin-right: 5px;
 }
-/*.email:valid{*/
-/*    border-color: green;*/
-/*}*/
-/*.email:invalid{*/
-/*    border-color: red;*/
-/*}*/
 .social{
     justify-content:center;
     padding-left:10px;
