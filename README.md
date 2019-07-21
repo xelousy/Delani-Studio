@@ -1,6 +1,6 @@
 # Delani Studio
 
-[Check it out]()
+[Check it out](https://kamauvick.github.io/Delani-Studio/)
 ## Description.
 Delani Studio is a site built to practice concepts learnt including JQuery, bootstrap, javascript and working with APIS's.
 
