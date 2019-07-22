@@ -163,7 +163,7 @@ input.error {
 .portimg .porttext {
     display: none;
     opacity: 1;
-    background-color:rgba(255, 255, 255, 0.8);
+    background-color:rgba(255, 255, 255, 0.6);
     width: auto;
     position: absolute;
     bottom: 0;
@@ -173,4 +173,7 @@ input.error {
     font-size: 30px;
     padding: 30px;
     height: 100%;
+}
+textarea::placeholder{
+    color: #ffffff;
 }
