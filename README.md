@@ -5,7 +5,7 @@
 Delani Studio is a site built to practice concepts learnt including JQuery, bootstrap, javascript and working with APIS's.
 
 ## Author
->Victor Kamau
+Alex Waturi
 
 ## Screenshot.
 <img src="https://github.com/kamauvick/Delani-Studio/blob/master/images/screenshot/shot.png?raw=true" width="1000">
@@ -42,4 +42,4 @@ The MailChimp API doesn't work properly.
 >MIT LICENSE &copy; 2019 Victor
 
 ## Collaborate
-To contribute to Delani studio, reach me on [Email](waichigovick@gmail.com).
+To contribute to Delani studio, reach me on [Email](alexwaturi1@gmail.com).
